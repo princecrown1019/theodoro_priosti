@@ -17,7 +17,7 @@ export const stats = [
 export const skillGroups = [
   {
     title: "Frontend",
-    items: ["React 18+", "Next.js 14+", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    items: ["React 19", "Next.js 15", "TypeScript", "Tailwind CSS", "Framer Motion"],
   },
   {
     title: "Backend",

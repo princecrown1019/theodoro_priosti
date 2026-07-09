@@ -42,7 +42,7 @@ export default function Contact() {
       </Reveal>
 
       <footer className="mt-16 flex flex-col items-center justify-between gap-4 border-t border-[var(--color-border)] pt-8 text-sm text-[var(--color-muted)] sm:flex-row">
-        <p>© {2026} {profile.name}. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} {profile.name}. All rights reserved.</p>
         <p>
           Built with Next.js, TypeScript &amp; Tailwind CSS
         </p>
